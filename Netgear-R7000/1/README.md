@@ -8,8 +8,6 @@
     * Product: R7000 —  Nighthawk AC1900 Smart WiFi Dual Band Gigabit Router
     * Affect version: V1.0.11.136_10.2.120
     * Firmware download: https://www.downloads.netgear.com/files/GDC/R7000/R7000-V1.0.11.136_10.2.120.zip
-    Note: The latest firmware has patch this vul about one month ago. The latest verison: https://www.downloads.netgear.com/files/GDC/R7000/R7000-V1.0.11.216.zip
- 
 
 ## Description
 
